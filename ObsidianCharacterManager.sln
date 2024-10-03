@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", "{5E803B55-7E2F-4669-B463-187D19C24D85}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Obsidian", "Obsidian\Obsidian.csproj", "{95377C17-1495-45D8-82E2-E33886C7DB71}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObsidianExceptions", "ObsidianExceptions\ObsidianExceptions.csproj", "{803496FE-E2ED-4947-859B-F547431D4B26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObsidianCharacterManager", "ObsidianCharacterManager\ObsidianCharacterManager.csproj", "{1C9864AF-0042-47FB-AE19-BAA81E389507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E803B55-7E2F-4669-B463-187D19C24D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E803B55-7E2F-4669-B463-187D19C24D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E803B55-7E2F-4669-B463-187D19C24D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E803B55-7E2F-4669-B463-187D19C24D85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95377C17-1495-45D8-82E2-E33886C7DB71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95377C17-1495-45D8-82E2-E33886C7DB71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95377C17-1495-45D8-82E2-E33886C7DB71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95377C17-1495-45D8-82E2-E33886C7DB71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{803496FE-E2ED-4947-859B-F547431D4B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803496FE-E2ED-4947-859B-F547431D4B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803496FE-E2ED-4947-859B-F547431D4B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803496FE-E2ED-4947-859B-F547431D4B26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C9864AF-0042-47FB-AE19-BAA81E389507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9864AF-0042-47FB-AE19-BAA81E389507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9864AF-0042-47FB-AE19-BAA81E389507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9864AF-0042-47FB-AE19-BAA81E389507}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D199B36-320A-4074-A558-127FF6C2D332}
+	EndGlobalSection
+EndGlobal
